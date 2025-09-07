@@ -25,7 +25,10 @@ The dashboards are:
 
 ## Key Insights
 
-#### Customer Churn Overview
+#### Customer Churn Overview: 
+
+<img width="1282" height="720" alt="PWC Customer Churn Dashboard" src="https://github.com/user-attachments/assets/f3a986a1-6c5f-48a6-8bd7-6acc76b1a90e" />
+
 
 1. Out of 7,043 customers, 1,869 (27%) churned.
 
@@ -41,7 +44,10 @@ The dashboards are:
 
 5. Tenure Effect: 31% of churned customers left within the first year, highlighting early-stage disengagement risk.
 
-#### Customer Risk Analysis
+#### Customer Risk Analysis: 
+
+<img width="1292" height="722" alt="PWC Customer Risk Dashboard" src="https://github.com/user-attachments/assets/806ce18e-3b13-4c70-b272-ebdb2e500d4c" />
+
 
 1. Internet Services:
 
@@ -55,7 +61,10 @@ The dashboards are:
 
 4. Contracts: Month-to-month customers exhibit the highest churn risk, while 2-year contract customers are the most stable.
 
-#### Services Analysis
+#### Services Analysis: 
+
+<img width="1283" height="722" alt="PWC Services Dashboard" src="https://github.com/user-attachments/assets/aeeb0eaf-ee27-42b7-9c03-bb1e88f7f918" />
+
 
 1. Churned customers were less likely to subscribe to value-added services such as:
 
